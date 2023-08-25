@@ -1,0 +1,19 @@
+
+.proflie-conten{
+    margin: auto;
+    text-align: center;
+    padding: 30px 5px;
+    padding-top: 0px;
+    background-color: aliceblue;
+    width: 30%;
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-top: 120px;
+    word-break: break-all;
+}
+
+.img{
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+}

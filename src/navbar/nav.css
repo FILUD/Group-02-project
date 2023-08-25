@@ -1,0 +1,73 @@
+
+
+.navbar-conten{
+    padding: 30px;
+}
+.image-pro{
+    position: absolute;
+    border-radius: 50px;
+    right: 150px;
+    top: 50px;
+    height: 80px;
+    cursor: pointer;
+    margin: 5px;
+    border: 3px solid #56b7b2;
+}
+
+
+/* .names_email{
+    color: black;
+    position: absolute;
+    right: 110px;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+} */
+.Logo{
+    position: absolute;
+    left: 130px;
+    top: 60px;
+    cursor: pointer;
+}
+
+/* .menu-box{
+    background-color: #ffffff; 
+    position: absolute;
+    text-align: center;
+    border-radius: 5px;
+    right: 262px;
+    top: 90px;
+    height: 160px;
+    padding: 5px;
+}
+.menu:hover{
+    cursor: pointer;
+    background: #56b7b2;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.icon{
+    position: absolute;
+    right: 240px;
+    top:95px;
+    color: aliceblue;
+}
+.icon:hover{
+    background-color: #56b7b2;
+    border-radius: 5px;
+} */
+
+.about{
+    position: absolute;
+    right: 260px;
+    top:85px;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+span{
+    margin: 10px;
+}
+

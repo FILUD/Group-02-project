@@ -1,0 +1,87 @@
+@media screen and (max-width:480px) {
+    .box-conten {
+        width: 250px;
+    }
+}
+
+.conten {
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+
+.btnnext {
+    background-color: #0085FF;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    cursor: pointer;
+    margin-top: -20px;
+    width: 200px;
+}
+
+.btnback {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 30px;
+    cursor: pointer;
+    margin-top: -20px;
+    width: 180px;
+
+}
+
+.box-conten {
+    background-color: #015A93;
+    text-align: center;
+    margin: 100px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    overflow-y: scroll;
+    height: 450px;
+}
+
+.choicetxt {
+    display: inline;
+}
+
+.btnchoicetxt {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 10px;
+    outline-color: rgb(32, 177, 255);
+    cursor: pointer;
+}
+
+.imagechoice {
+    border: #0084ff00 solid 4px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.btnchoice {
+    border-radius: 20px;
+    margin: 5px;
+    border: 2px solid #588AB7;
+    cursor: pointer;
+    border: #0084ff00 solid 4px;
+}
+
+.btnchoice:hover {
+    border-color: #ffffff;
+}
+
+.checked .btnchoice {
+    border: #0085FF solid 4px;
+    opacity: 50%;
+
+
+}
+
+.item {
+    display: inline;
+}
